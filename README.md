@@ -10,7 +10,7 @@
 
   <p align="center">
     <a href="#features">Features</a> •
-    <a href="#demo">Demo</a> •
+    <a href="https://iqodex.github.io/textly/">Live Demo</a> •
     <a href="#getting-started">Getting Started</a> •
     <a href="#tech-stack">Tech Stack</a>
   </p>
@@ -28,7 +28,7 @@
 
 Built with performance in mind, Textly requires **no installation, no build steps, and no server**. It runs entirely in your browser, ensuring your text remains private and secure.
 
-## ✨ Key Features
+## <a id="features"></a>✨ Key Features
 
 ### 📊 Real-Time Analytics
 Instantly calculate statistics as you type:
@@ -56,7 +56,7 @@ Instantly calculate statistics as you type:
 | Clean, wide workspace with top toolbar. | Optimized bottom navigation & compact stats. |
 | *(Add Desktop Screenshot Here)* | *(Add Mobile Screenshot Here)* |
 
-## 🚀 Getting Started
+## <a id="getting-started"></a>🚀 Getting Started
 
 Textly is designed as a **Single File Application**. You do not need Node.js, NPM, or a build server to run it.
 
@@ -69,9 +69,9 @@ Textly is designed as a **Single File Application**. You do not need Node.js, NP
 Since there is no build step, deploying is instant:
 1.  Upload `index.html` to a GitHub repository.
 2.  Enable **GitHub Pages** in the repository settings.
-3.  Your app is live immediately.
+3.  Your app is live immediately at your GitHub Pages URL (e.g., `https://username.github.io/textly/`).
 
-## 🛠️ Tech Stack
+## <a id="tech-stack"></a>🛠️ Tech Stack
 
 *   **Core:** HTML5, Vanilla JavaScript
 *   **Styling:** [Tailwind CSS](https://tailwindcss.com) (via CDN)

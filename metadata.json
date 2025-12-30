@@ -1,0 +1,5 @@
+{
+  "name": "Textly",
+  "description": "A professional-grade word counter and text analyzer designed for writers. Features real-time statistics for words, characters, sentences, and reading time, plus intelligent text cleaning tools.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,1 @@
+// This file is no longer used. See index.html for the application logic.
